@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SyncReplicator": {
+      "commandName": "Project",
+      "commandLineArgs": "<source_path> <replica_path> <interval_seconds> <log_file_path>"
+    }
+  }
+}

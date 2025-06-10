@@ -484,9 +484,8 @@ $RECYCLE.BIN/
 *.swp
 
 # Test synchronization folders
-TestSource/
-TestReplica/
-SampleData/
+Source/
+Replica/
 TestLogs/
 
 # Application log files

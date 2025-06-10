@@ -1,4 +1,4 @@
-﻿namespace FolderSync.Services
+﻿namespace SyncReplicator.Services
 {
     /// <summary>
     /// Interface for logging operations

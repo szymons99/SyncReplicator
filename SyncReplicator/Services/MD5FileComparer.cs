@@ -2,7 +2,7 @@
 using System.IO;
 using System.Security.Cryptography;
 
-namespace FolderSync.Services
+namespace SyncReplicator.Services
 {
     /// <summary>
     /// File comparer using MD5 hash algorithm
