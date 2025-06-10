@@ -486,7 +486,7 @@ $RECYCLE.BIN/
 # Test synchronization folders
 Source/
 Replica/
-TestLogs/
+Logs/
 
 # Application log files
 *.log
